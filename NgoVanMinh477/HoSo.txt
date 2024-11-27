@@ -1,0 +1,2 @@
+01,XV01,CV bản thân,Hồ sơ xin việc,Xin việc làm Dev,Ban nhân sự,Tôi Ngô Văn Minh đã có 1 bằng cử nhân Công nghệ thông tin chuyên ngành FE muốn xin vị trí làm Dev,Đã xử lý,1 Bằng cử nhân CNTT Đại học Đại Nam loại Giỏi,22/11/2024,Ngô Văn Minh,30/12/2024,Xin việc,Chưa xử lý
+02,HS02,CV bản thân,Hồ sơ xin việc,Xin vị trí Dev,Ngô Văn Minh,Cử nhân ngành CNTT đạt loại giỏi chuyên ngành BE,Đã xử lý,23/11/2024,23/12/2024,Ban nhân sự,Chờ xử lý
